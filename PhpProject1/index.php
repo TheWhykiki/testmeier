@@ -13,6 +13,16 @@ and open the template in the editor.
         <?php
         echo "Leck mir den Hobel hahahaha";
         echo "jetzt gehts lso";
+        echo 1+2;
+        $testkoko = array("Hase", "Hund","Katze","Maus");
+        var_dump($testkoko);
+        $counter = 0;
+        foreach($testkoko as $item){
+            $counter++;
+            echo $counter." ".$item;
+        }
+        
+        echo "Kiki";
         ?>
     </body>
 </html>
