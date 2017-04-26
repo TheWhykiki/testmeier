@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        sdfjjsdf
+        echo "Leck mir den Hobel hahahaha";
+        ?>
     </body>
 </html>
